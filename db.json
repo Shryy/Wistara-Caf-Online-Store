@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": 7,
+      "firstName": " ",
+      "lastName": " ",
+      "email": " ",
+      "password": ""
+    },
+    {
+      "id": 8,
+      "firstName": " ",
+      "lastName": " ",
+      "email": " ",
+      "password": ""
+    },
+    {
+      "id": 9,
+      "firstName": " ",
+      "lastName": " ",
+      "email": " ",
+      "password": ""
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
